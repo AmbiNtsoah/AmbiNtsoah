@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently looking for **a work-study job**
  
  🌱 I’m currently learning **Data Science, Tkinter, Django, React**
 
