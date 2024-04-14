@@ -11,7 +11,7 @@
  
  🔭 I’m currently looking for **a work-study job**
  
- 🌱 I’m currently learning **Data Science, Tkinter, Django, React**
+ 🌱 I’m currently learning **Django, Tkinter, Data Analyst, React**
 
 ⚡ Fun fact **ASTROWORLD from Travis Scott is my best Album ALL-TIME.**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python,django,github,git,java,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,github,git,java,mysql,postgresql" />
     <img src="https://skillicons.dev/icons?i=react,laravel,nodejs" /><br>
 </div>
 
