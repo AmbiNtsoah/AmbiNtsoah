@@ -3,15 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+IT+World!+👋;+I'm+Maminirina+Ambinintsoa!;I'm+an+IT+student" />
 </h1>
 
-<h3 align="center">A passionate software developer with Python</h3>
+<h3 align="center">A passionate software developer & Computer Science</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently looking for **a work-study job**
+ 🔭 I’m currently looking for **Internship job as a Junior Developper**
  
- 🌱 I’m currently learning **Django, Tkinter, Data Analyst, React**
+ 🌱 I’m currently learning **Django, Java, Cybersecurity**
 
 ⚡ Fun fact **ASTROWORLD from Travis Scott is my best Album ALL-TIME.**
 
