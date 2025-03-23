@@ -10,8 +10,7 @@
                                                                                                  
 ```
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Mscw2tH9hcAne/giphy.gif?cid=790b7611wrs0oey627xao1uut6jtbtejint9zndm1ksojytt&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</div>
+  <img src="https://media.giphy.com/media/Mscw2tH9hcAne/giphy.gif?cid=790b7611wrs0oey627xao1uut6jtbtejint9zndm1ksojytt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="250"/></div>
   
 <br/>
 <h2 align="center"> 🛠 </h3>
