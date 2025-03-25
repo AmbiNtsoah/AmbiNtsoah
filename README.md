@@ -30,4 +30,5 @@
 </p>
 
 <h2 align="center"> 📊 </h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmbiNtsoah&" alt="AmbiNtsoah" /></p>
+<p align="center">
+<a href="http://www.github.com/AmbiNtsoah"><img src="https://github-readme-stats.vercel.app/api?username=AmbiNtsoah&show_icons=true&hide=prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="AmbiNtsoah's GitHub stats" /></a> </p>
