@@ -22,11 +22,11 @@
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2 align="center">🖖🏽 I am Maminirina Ambinintsoa</h2>
 
 ###
 
-<h3 align="center">I am Maminirina Ambinintsoa</h3> <h4 align='center'>- 🔭 I’m looking for a job opportunity as a Junior Software developer<br>- 📚 I'm currently learning Flutter and Cybersecurity concept<br>- ⚡ In my free time I listen to music and podcast</h4>
+<h3 align="center">👩‍💻  About Me</h3> <h4 align='center'>- 🔭 I’m looking for a job opportunity as a Junior Software developer<br>- 📚 I'm currently learning Flutter and Cybersecurity concept<br>- ⚡ In my free time I listen to music and podcast</h4>
 
 ###
 
