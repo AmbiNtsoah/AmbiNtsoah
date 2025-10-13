@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3> <h4 align='center'>- 🔭 I’m looking for a job opportunity as a Junior Software developer<br>- 📚 I'm currently learning Flutter and Cybersecurity concept<br>- ⚡ In my free time I listen to music and podcast</h4>
+<h3 align="center">👩‍💻  About Me</h3> <h4 align='center'>- 🔭 I’m  a Junior Software developer<br>- 📚 I'm currently learning Flutter and Cybersecurity concept<br>- ⚡ In my free time I listen to music and podcast</h4>
 
 ###
 
@@ -69,3 +69,7 @@
 </div>
 
 ###
+
+<p align = 'center'>
+  <img src='https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Thanks%20for%20visiting&section=footer&fontAlign=50&fontAlignY=70&fontSize=30&animation=twinkling'>
+</p>
