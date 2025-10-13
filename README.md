@@ -71,5 +71,5 @@
 ###
 
 <p align = 'center'>
-  <img src='https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Thanks%20for%20visiting&section=footer&fontAlign=50&fontAlignY=70&fontSize=30&animation=twinkling'>
+  <img src='https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Thanks%20for%20visiting&section=footer&fontAlign=50&fontAlignY=80&fontSize=30&animation=twinkling'>
 </p>
