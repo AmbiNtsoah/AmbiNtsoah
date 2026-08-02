@@ -24,7 +24,7 @@
 ###
 
 <h3 >👩‍💻  About Me</h3> 
-<h4 >- 🔭 I’m  a Junior Software Engineer<br>- 📚 I'm currently learning Cybersecurity concept<br>- ⚡ In my free time I listen to music and podcast</h4>
+<h4 >- 🔭 I’m  a Junior Software Engineer<br>- 📚 I'm currently learning Cybersecurity & Cloud Engineering concept<br>- ⚡ In my free time I listen to music and podcast</h4>
 
 ###
 
